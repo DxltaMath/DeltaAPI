@@ -1,0 +1,26 @@
+{
+  "name": "@deltamath/apitools",
+  "version": "0.0.1",
+  "description": "Some tools for interacting with the DeltaMath API",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"soonTM\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afkvido/DeltaMath.git"
+  },
+  "keywords": [
+    "DeltaMath",
+    "API",
+    "Hacks",
+    "Cheats",
+    "Debugging"
+  ],
+  "author": "gemsvido",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/afkvido/DeltaMath/issues"
+  },
+  "homepage": "https://github.com/afkvido/DeltaMath#readme"
+}
