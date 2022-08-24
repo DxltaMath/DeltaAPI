@@ -3,9 +3,8 @@
   "version": "0.0.1",
   "description": "Some tools for interacting with the DeltaMath API",
   "main": "dist/index.js",
-  "type": "module",
   "scripts": {
-    "prestart": "npx tsc && cp ./private.json ./dist/private.json",
+    "prestart": "npx tsc",
     "start": "node dist/index.js",
     "poststart": "rm -rf dist"
   },

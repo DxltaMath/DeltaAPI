@@ -1,10 +1,6 @@
-// import post from "./post"
+// index.js is merley an entry point
 
-import get from "./get";
-
-// Entry point of the program
-
-// post();
+import post from "./post"
 
 
-get("re");
+post();
