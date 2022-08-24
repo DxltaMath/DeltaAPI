@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/afkvido/DeltaMath/issues"
   },
-  "homepage": "https://github.com/afkvido/DeltaMath#readme"
+  "homepage": "https://github.com/afkvido/DeltaMath#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
