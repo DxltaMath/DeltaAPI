@@ -1,0 +1,8 @@
+{
+    "header-authorization": "Bearer [SECRET]",
+    "refresh_token": "[SECRET]",
+    "refresh_token_javascript": "[SECRET]",
+    "AWSALBTG": "[SECRET]",
+    "AWSALBTGCORS": "[SECRET]",
+    "referer": "https://www.deltamath.com/app/student/solve/16593099/powerToPower"
+}
