@@ -19,6 +19,12 @@ export default function post () : void {
 
 }
 
+export interface PostOptions {
+    header_authorization? : string | null,
+    refresh_token? : string | null,
+    
+}
+
 
 function makeHeaders () : Headers {
 
